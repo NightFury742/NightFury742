@@ -9,7 +9,7 @@ class AspiringDeveloper:
     def __init__(self):
         self.name = "Eshaan Modi"
         self.education = "Sophomore at IIIT Jabalpur"
-        self.about = ["Exploring vast fields of technologies- there's always something exciting around the corner "]
+        self.about = ["Exploring vast fields of tech - there's always something exciting ahead"]
 
     def say_hi(self):
         print("Feel free to drop me a hi, I welcome all friendly communication!!")
