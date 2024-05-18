@@ -18,7 +18,7 @@ class AspiringDeveloper:
 me = Exploring()
 me.say_hi()
 ```
-## Tech stack
+## 🛠️ Tech stack
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
@@ -48,7 +48,7 @@ me.say_hi()
     <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo" />
 </div>
 
-## Reach me out
+## ✌️ Reach me out at
 <div align="center">
    <a href="https://www.linkedin.com/in/eshaan-modi-a9a602253"> <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="linkedin logo" /> </a>
     <img width="12" />
